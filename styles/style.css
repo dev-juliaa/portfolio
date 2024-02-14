@@ -3,7 +3,7 @@
 :root{
     --cor-primaria: #000000;
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #0bcb55;
+    --cor-terciaria: #2065ae;
     --cor-hover: #272727;
 
     --font-primaria: 'Krona One', sans-serif;
@@ -125,7 +125,7 @@ body {
 
 @media (max-width: 1300px){
     .cabecalho{
-        padding: 10%;
+        padding: 3%;
     }
 
     .cabecalho__menu{
